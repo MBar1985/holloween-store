@@ -1,0 +1,106 @@
+ html {
+    
+    font-family: sans-serif; 
+	padding:0px;
+	margin:0px;
+	
+   
+}
+
+
+#page-wrap {
+    width: 800px;
+    margin: 0 auto;
+	border-color:black;
+	border-style: groove;	
+	background-color:white;
+    box-shadow:0px 0px 10px 10px black; 
+	
+}
+.text
+{
+	margin: auto;
+  padding: 15px;
+ 
+
+}
+.size
+{
+	
+	height:800px;
+	
+	
+
+}
+.border-text
+{
+	margin-left:3%;
+	
+}
+.gradiant
+{
+	background: linear-gradient(45deg, white, orange,75%, black);
+	 
+	
+	 
+	 
+}
+.footer-gradiant
+{
+	background: linear-gradient(45deg, black, orange,75%, white);
+}
+.site-footer {
+height: 100px;
+background: linear-gradient(45deg, black, orange,75%, white);
+ background-size: 100%;
+ border-top:4px solid black;
+
+}
+
+h2{
+	 font-size: 2em;
+	   color: black; 
+	   word-spacing: 3px;
+	   height:5px;
+	   
+} 
+
+#margin
+{
+	margin-left:12%;
+}
+div.top{
+	text-indent: 30px;
+}
+
+img
+{
+	float :left;
+}
+
+
+.first-letter {
+  font-size: 70px;
+  line-height: 70px;
+}
+.link { 
+	color: orange; 
+}
+
+li {
+	margin-left: 0;
+	margin-right: 10%;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+.font-size {
+	font-size: 15px;
+	padding:20px;
+
+
+}
+.img-top
+{
+	margin-top:2em;
+}
